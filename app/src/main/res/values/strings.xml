@@ -1,0 +1,13 @@
+<resources>
+    <!-- app name -->
+    <string name="app_name">ثبت نام</string>
+    <!-- texts signup activity -->
+    <string name="text_signup_textview_toolbar">فرم ثبت مشخصات</string>
+    <string name="text_signup_edittext_hint_name">نام</string>
+    <string name="text_signup_edittext_hint_family">نام خانوادگی</string>
+    <string name="text_signup_edittext_hint_nationalCode">کدملی</string>
+    <string name="text_signup_edittext_hint_fatherName">نام پدر</string>
+    <string name="text_signup_edittext_hint_birthYear">سال تولد</string>
+    <string name="text_signup_button_sendValue">ثبت</string>
+
+</resources>
